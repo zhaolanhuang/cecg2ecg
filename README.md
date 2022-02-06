@@ -25,6 +25,7 @@ The training of neural network is conducted under the experiment management tool
 
 ## Structure
 
+```bash
 ├─ECG Reconstruction				Neural networks for ECG Reconstruction
 │  ├─Dynamic Modell					Three different neural networks for ECG model identification
 │  │  ├─CNNwReconstructionLoss		CNN with ReconstructionLoss
@@ -46,5 +47,6 @@ The training of neural network is conducted under the experiment management tool
 │  └─Herleikson						Implementation of Herleiksons algorithm
 │
 └─QRS Detection
+```
 
 The files "train_*.py" can be directly run for training neural network.
