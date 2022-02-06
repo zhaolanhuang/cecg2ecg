@@ -1,0 +1,47 @@
+This document lists all the installed packages and their version that were used to run the code.
+
+Package Name	Version
+
+Keras	2.2.2
+Keras-Applications	1.0.4
+Keras-Preprocessing	1.0.2
+Markdown	2.6.11
+PeakUtils	1.2.0
+PyYAML	3.13
+Werkzeug	0.14.1
+absl-py	0.3.0
+astor	0.7.1
+bleach	1.5.0
+certifi	2018.4.16
+chardet	3.0.4
+cycler	0.10.0	
+enum34	1.1.6
+gast	0.2.0
+grpcio	1.13.0
+h5py	2.8.0
+html5lib	0.9999999
+idna	2.7
+joblib	0.12.2
+kiwisolver	1.0.1
+matplotlib	2.2.2
+nose	1.3.7
+numpy	1.15.0
+pandas	0.23.3
+pip	9.0.1
+protobuf	3.6.0
+pyparsing	2.2.0
+python-dateutil	2.7.3
+pytz	2018.5
+requests	2.19.1
+scikit-learn	0.19.2
+scipy	1.1.0
+setuptools	28.8.0
+six	1.11.0
+sklearn	0.0
+tensorboard	1.8.0
+tensorflow-gpu	1.10.0rc0
+tensorflow-tensorboard	0.4.0
+termcolor	1.1.0
+urllib3	1.23
+wfdb	2.2.1
+wheel	0.31.1
